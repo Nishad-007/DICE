@@ -11,7 +11,7 @@ This can make the die roll at the press of a button. With this app in your pocke
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-## learnt in this project:
+## Learnt in this project:
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
